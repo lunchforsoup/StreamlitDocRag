@@ -1,0 +1,16 @@
+
+name: streamlitEnv
+dependencies: 
+    - python=3.10
+    - transformers
+    - torch
+    - streamlit
+    - dspy-ai
+    - langchain
+    - torchvision
+    - jupyter
+    - notebook
+    - ipykernel
+    - datasets
+    - pandas
+    - numpy
